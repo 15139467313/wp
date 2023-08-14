@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/czh-admin/czh-admin.iml" filepath="$PROJECT_DIR$/czh-admin/czh-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czh-common/czh-common.iml" filepath="$PROJECT_DIR$/czh-common/czh-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czh-wp.iml" filepath="$PROJECT_DIR$/czh-wp.iml" />
+    </modules>
+  </component>
+</project>
