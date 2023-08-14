@@ -8,7 +8,6 @@
         <groupId>com.wp</groupId>
         <version>1.0.0</version>
     </parent>
-
     <artifactId>czh-common</artifactId>
 
     <description>
