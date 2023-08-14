@@ -97,7 +97,7 @@
       <updated>1691719404522</updated>
       <workItem from="1691719408112" duration="9326000" />
       <workItem from="1691748372127" duration="2000" />
-      <workItem from="1692003718293" duration="1718000" />
+      <workItem from="1692003718293" duration="2133000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1692004510477</created>
@@ -134,7 +134,28 @@
       <option name="project" value="LOCAL" />
       <updated>1692005388253</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="提交">
+      <created>1692005473793</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692005473793</updated>
+    </task>
+    <task id="LOCAL-00007" summary="提交">
+      <created>1692005549954</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692005549954</updated>
+    </task>
+    <task id="LOCAL-00008" summary="提交">
+      <created>1692005842721</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692005842721</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,10 +221,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="329" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1692005149939" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1692005389312">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1692005843694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1692005389312" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1692005843694" />
     <state x="229" y="200" key="new project wizard" timestamp="1691720607143">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
